@@ -10,7 +10,7 @@ export default function Help() {
 		{ cmd: "skill", detail: "List all of my skills." },
 		{ cmd: "contact", detail: "List all of the contacts." },
 		{ cmd: "about", detail: "To see what is terminal portfolio." },
-		{ cmd: "ctrl + l", detail: "To clear the history." },
+		{ cmd: "project", detail: "To review my complete array of projects." },
 	];
 	return (
 		<div className="w-11/12 mx-auto">
